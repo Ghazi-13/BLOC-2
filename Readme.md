@@ -6,7 +6,7 @@ The objective of this project is to analyse a data set of a speed dating experim
 ## Details for certification purpose
 
 * email: ghazibouchnak@gmail.com
-* video lin: https://share.vidyard.com/watch/oRcEJd33Aph2tH35cFJPdr?
+* video link: https://share.vidyard.com/watch/oRcEJd33Aph2tH35cFJPdr?
 
 
 ## Getting Started
